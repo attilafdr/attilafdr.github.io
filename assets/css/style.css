@@ -19,7 +19,7 @@ body {
     padding: 10px 15px;
     display: block;
 }
-.navbar a:hover {
+.navbar li a:hover {
     background-color: #575757;
 }
 .content {
